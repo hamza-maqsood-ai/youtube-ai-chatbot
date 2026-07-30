@@ -11,3 +11,5 @@ youtube-transcript-api
 python-dotenv
 groq
 openai
+torch
+torchvision
